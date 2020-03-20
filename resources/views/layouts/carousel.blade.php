@@ -86,7 +86,10 @@
                                         User's Profile
                                     </a>
                                     <a class="dropdown-item" href="/posts/create">
-                                        History
+                                        Customer Services
+                                    </a>
+                                    <a class="dropdown-item" href="/posts/create">
+                                        Applied Events
                                     </a>
                                     <a class="dropdown-item" href="{{ route('logout') }}"
                                        onclick="event.preventDefault();
