@@ -1,7 +1,18 @@
-.bs-example{
+.bs-example
+{
         margin: 60px;        
-    }
+ }
 
- .reminder{
+ .reminder
+ {
  	margin: 15px;
+ }
+
+ .custom-file-control
+ {
+  color: #fff;
+  background-color: #F47735;
+  border-color: #F47735;
+  padding: 5px;
+  border-radius: 4px;
  }
