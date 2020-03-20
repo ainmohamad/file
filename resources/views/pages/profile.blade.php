@@ -13,7 +13,7 @@
                     <a href="" data-target="#messages" data-toggle="tab" class="nav-link">Activities & Interest</a>
                 </li>
                 <li class="nav-item">
-                    <a href="" data-target="#edit" data-toggle="tab" class="nav-link">other info</a>
+                    <a href="" data-target="#edit" data-toggle="tab" class="nav-link">Other</a>
                 </li>
             </ul>
             <div class="tab-content py-4">
