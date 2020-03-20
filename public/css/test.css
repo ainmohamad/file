@@ -1,0 +1,17 @@
+body {
+    background: #337ab7;
+    margin: auto;
+}
+.carousel-inner {
+    margin-top: 51px;
+}
+.item {
+    background: #717171;
+    text-align: center;
+    min-height: 268px;
+    padding: 100px 0;
+}
+h1 {
+    color: #ffffff;
+    font-size: 94px;
+}
