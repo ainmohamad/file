@@ -15,4 +15,14 @@ class PagesController extends Controller
     {
     	return view('pages.profile');
     }
+
+    public function organizerdashboard()
+    {
+    	return view('pages.organizerdashboard');
+    }
+
+    public function admindashboard()
+    {
+    	return view('pages.admindashboard');
+    }
 }

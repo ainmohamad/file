@@ -27,7 +27,7 @@ class LoginController extends Controller
      *
      * @var string
      */
-    protected $redirectTo = RouteServiceProvider::HOME;
+   // protected $redirectTo = RouteServiceProvider::HOME;
 
    /** protected function $redirectTo()
     {
@@ -49,6 +49,20 @@ class LoginController extends Controller
                 break;
         }
     } **/
+
+   protected function authenticated ($request, $user){
+        if($user->type=='member'){
+            return redirect ('/');
+        } 
+        else if($user->type=="super_admin"){
+            return redirect('/organizerdashboard');
+        }
+        else{
+            return redirect('/admindashboard');
+        }
+
+       // return $user;
+    }
 
     /**
      * Create a new controller instance.

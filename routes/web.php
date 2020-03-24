@@ -20,6 +20,10 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
+Route::get('/organizerdashboard', 'PagesController@organizerdashboard')->name('organizerdashboard');
+
+Route::get('/admindashboard', 'PagesController@admindashboard')->name('admindashboard');
+
 Auth::routes(['verify' => true]); //enable email verification 
 
 
