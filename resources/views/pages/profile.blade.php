@@ -21,7 +21,7 @@
             <div class="tab-content py-4">
                 <div class="tab-pane active" id="profile">
                     <h5 class="mb-3">Personal Information</h5>
-                    <form role="form">
+                    <form action="update" method="POST">
                         <div class="form-group row">
                             <label class="col-lg-3 col-form-label form-control-label">Full name</label>
                             <div class="col-lg-9">

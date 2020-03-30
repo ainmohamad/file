@@ -17,7 +17,7 @@
           <div class="">
             <div class="card-block m-3">
               <div class="text-center">
-                <i class="fas fa-desktop fa-4x"></i>
+                <img class="fas fa-4x img-sizing" src="image/book.png"> </img>
               <h5 class="card-title">Education</h5>
                 </div>
             </div>
@@ -27,7 +27,7 @@
           <div class="">
             <div class="card-block m-3">
               <div class="text-center">
-                <i class="fas fa-desktop fa-4x"></i>
+                <img src="image/nature.png" class="fas fa-4x img-sizing"></img>
               <h5 class="card-title">Animals & Nature</h5>
                 </div>
             </div>
@@ -37,7 +37,7 @@
           <div class="">
             <div class="card-block m-3">
               <div class="text-center">
-               <i class="fas fa-code fa-4x"></i>
+               <img src="image/arts.png" class="fas fa-code fa-4x img-sizing"></img>
               <h5 class="card-title">Culture & Arts</h5>
                 </div>
             </div>
@@ -49,7 +49,7 @@
           <div class="">
             <div class="card-block m-3">
               <div class="text-center">
-                <i class="fas fa-cart-plus fa-4x"></i>
+                <img src="image/old folks.png" class="fas fa-code fa-4x img-sizing"></img>
               <h5 class="card-title">Community Service</h5></div>
             </div>
           </div>
@@ -58,7 +58,7 @@
           <div class="">
             <div class="card-block m-3">
               <div class="text-center">
-                <i class="fas fa-desktop fa-4x"></i>
+                <img src="image/festival.png" class="fas fa-code fa-4x img-sizing"></img>
               <h5 class="card-title">Festival</h5>
                 </div>
             </div>
@@ -68,7 +68,7 @@
           <div class="">
             <div class="card-block m-3">
               <div class="text-center">
-                <i class="fas fa-desktop fa-4x"></i>
+                <img src="image/health.png" class="fas fa-code fa-4x img-sizing"></img>
               <h5 class="card-title">Health</h5>
                 </div>
             </div>
